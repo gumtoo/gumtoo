@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gumtoo
 - 👀 I’m interested in peace. Helping to ensure we all have comfort, shelter and quality food.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on continuing our species existence.
 - 📫 Reach me through Github.
